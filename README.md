@@ -10,4 +10,4 @@ The associated writeup can be found on the Kaggle competition website.
 [uv] pip install -r requirements.txt
 ```
 
-# Code Explanations can be found within the competition writeup or associated blog post.
+Code Explanations can be found within the competition writeup or associated blog post.
